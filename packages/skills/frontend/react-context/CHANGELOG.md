@@ -4,6 +4,13 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 
 ## 0.0.0 (2026-06-29)
 
+* feat: init ([08d928f](https://github.com/kevinrodbe/ai-toolkit-2/commit/08d928f))
+* feat: remove pkgs ([ddc0e1f](https://github.com/kevinrodbe/ai-toolkit-2/commit/ddc0e1f))
+
+
+
+## 0.0.0 (2026-06-29)
+
 * feat!: trigger version ([28b9167](https://github.com/kevinrodbe/ia-toolkit-test-nx/commit/28b9167))
 * feat!: trigger version ([866e5e2](https://github.com/kevinrodbe/ia-toolkit-test-nx/commit/866e5e2))
 * feat!: trigger version ([1c6ac4c](https://github.com/kevinrodbe/ia-toolkit-test-nx/commit/1c6ac4c))
