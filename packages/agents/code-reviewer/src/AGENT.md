@@ -1,9 +1,9 @@
 ---
 name: code-reviewer
 description: >
-    Delegate here whenever the user asks to review, audit, or evaluate code — including phrases like "revisar código", "revisa este PR", "code review", "check my code", "qué tan bien está escrito", "hay algo mal aquí", "dame feedback del código", or any request about code quality or before-merge checks. Performs a Staff-Engineer-level review across correctness, readability, architecture, security, and performance; outputs a structured verdict with Critical / Important / Suggestion findings.
+  Delegate here whenever the user asks to review, audit, or evaluate code — including phrases like "revisar código", "revisa este PR", "code review", "check my code", "qué tan bien está escrito", "hay algo mal aquí", "dame feedback del código", or any request about code quality or before-merge checks. Performs a Staff-Engineer-level review across correctness, readability, architecture, security, and performance; outputs a structured verdict with Critical / Important / Suggestion findings.
 metadata:
-  version: "0.0.0"
+  version: '0.0.0'
 ---
 
 # Senior Code Reviewer
@@ -119,3 +119,4 @@ Example filename: `./code-reviews/22-05-2026-03-45-PM.md`
 
 - **Invoke directly when:** the user asks for a review of a specific change, file, or PR.
 - **Invoke via:** `/code-review` (single-perspective review)
+- **Invoke via:** `/code-review ultra` (multi-agent cloud review)

@@ -201,7 +201,7 @@ if (args.length === 0) {
         value: 'link' as const,
       },
     ],
-    message: 'What do you want to do?',
+    message: 'Select an action:',
   });
 
   if (command === 'add') {

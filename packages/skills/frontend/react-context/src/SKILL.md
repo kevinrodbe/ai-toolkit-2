@@ -2,9 +2,9 @@
 name: react-context
 description: >
   React Context creation with TypeScript — State + Actions separation, typed Provider, and typed hook with guard.
-  Invoke when the user asks for a context/provider/hook, or when the AI detects that state or services need to be shared across a component tree without prop drilling.
+  Invoke when the user asks for a context/provider/hook, or when the AI detects that state or services need to be shared across a component tree without prop drilling. Also invoke when the user wants to avoid prop drilling with shared global state.
 metadata:
-  version: "0.0.0"
+  version: '0.0.0'
 ---
 
 ## Elicitation
@@ -172,8 +172,8 @@ Rules:
 ### `index.ts` (barrel)
 
 ```typescript
-export * from "./<Name>Provider";
-export * from "./use<Name>Context";
+export * from './<Name>Provider';
+export * from './use<Name>Context';
 ```
 
 Rules:
