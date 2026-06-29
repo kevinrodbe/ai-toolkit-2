@@ -19,6 +19,8 @@ initEvents();
 
 const cwd = process.cwd();
 
+console.log(`dk-link running in: ${cwd}`);
+
 interface LinkArgv {
   agents?: string;
   all?: boolean;

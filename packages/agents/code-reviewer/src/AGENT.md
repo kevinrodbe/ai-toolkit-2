@@ -120,3 +120,4 @@ Example filename: `./code-reviews/22-05-2026-03-45-PM.md`
 - **Invoke directly when:** the user asks for a review of a specific change, file, or PR.
 - **Invoke via:** `/code-review` (single-perspective review)
 - **Invoke via:** `/code-review ultra` (multi-agent cloud review)
+- **Invoke via:** `/review` (GitHub PR review)
