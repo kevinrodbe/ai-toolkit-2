@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  '@jscutlery/semver@6.1.2>semver': 7.8.1
+
 importers:
 
   .:
@@ -4046,6 +4049,11 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
+  semver@7.8.1:
+    resolution: {integrity: sha512-rkVq3IXh+4FDGch+KwzX3aV9W3kO54GyEgpvBzSyctDA6Xtd7RJQV1xmXbeQp5v7+VzLOfVqiutSE6GICgPFvg==}
+    engines: {node: '>=10'}
+    hasBin: true
+
   semver@7.8.5:
     resolution: {integrity: sha512-Y7/KDsb8LjooZpwaqGyulO6DQlksgCncchHGk+sZIY4SBvUocMBEFH5Ur1fI4dV+Jvl0w6cjvucaIi40puRioA==}
     engines: {node: '>=10'}
@@ -6078,7 +6086,7 @@ snapshots:
       git-semver-tags: 7.0.1
       inquirer: 8.2.7(@types/node@26.0.1)
       rxjs: 7.8.2
-      semver: 7.8.5
+      semver: 7.8.1
     transitivePeerDependencies:
       - '@types/node'
 
@@ -9051,6 +9059,8 @@ snapshots:
   semver@6.3.1: {}
 
   semver@7.7.4: {}
+
+  semver@7.8.1: {}
 
   semver@7.8.5: {}
 
