@@ -16,7 +16,7 @@
       "options": {
         "allowEmptyRelease": true,
         "noVerify": true,
-        "preset": "conventional",
+        "preset": "conventionalcommits",
         "push": false,
         "releaseAs": "prerelease",
         "skipCommit": true,
@@ -38,7 +38,7 @@
         "commitMessageFormat": "chore({projectName}): release version ${version} [skip ci]",
         "noVerify": true,
         "postTargets": ["github"],
-        "preset": "conventional",
+        "preset": "conventionalcommits",
         "push": true,
         "skipCommit": false,
         "trackDeps": true
