@@ -5,6 +5,7 @@ description: >
   Invoke when the user asks for a context/provider/hook, or when the AI detects that state or services need to be shared across a component tree without prop drilling. Also invoke when the user wants to avoid prop drilling with shared global state or manage cross-cutting concerns.
 metadata:
   version: '0.0.0'
+  author: 'k1'
 ---
 
 ## Elicitation
