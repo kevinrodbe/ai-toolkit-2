@@ -2,6 +2,14 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.2.0](https://github.com/kevinrodbe/ai-toolkit-2/compare/react-context-0.1.0...react-context-0.2.0) (2026-07-16)
+
+
+### Features
+
+* bump commitlint and use preset conventionalcommits ([2fb5f53](https://github.com/kevinrodbe/ai-toolkit-2/commit/2fb5f534eb98ba998fd8f5c1a314a4ea5d773657))
+* test ([a879301](https://github.com/kevinrodbe/ai-toolkit-2/commit/a879301cf216c0a93a6d9ae089158a6ada7247c7))
+
 ## [0.1.0](https://github.com/kevinrodbe/ai-toolkit-2/compare/react-context-0.0.0...react-context-0.1.0) (2026-06-29)
 
 
