@@ -9,7 +9,9 @@
   },
   "type": "commonjs",
   "files": [
-    "src"
+    "*",
+    "!project.json",
+    "!CHANGELOG.md"
   ],
   "scripts": {
     "build": "echo 'Not needed'",
