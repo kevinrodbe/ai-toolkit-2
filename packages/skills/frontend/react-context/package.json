@@ -9,6 +9,7 @@
   },
   "type": "commonjs",
   "files": [
+    "*",
     "!project.json",
     "!CHANGELOG.md"
   ],
