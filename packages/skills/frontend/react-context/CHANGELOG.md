@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.0.0](https://github.com/kevinrodbe/ai-toolkit-2/compare/react-context-0.3.0...react-context-1.0.0) (2026-07-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* add assets
+
+### Features
+
+* add assets ([4d4d184](https://github.com/kevinrodbe/ai-toolkit-2/commit/4d4d1848b8a87339a3092959c1a112e55196367e))
+
 ## [0.3.0](https://github.com/kevinrodbe/ai-toolkit-2/compare/react-context-0.2.0...react-context-0.3.0) (2026-07-19)
 
 
